@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578430557 source:c:\users\algoritmos\desktop\busqueda lineal-secuencial\busqueda\main.cpp
+	<iostream>
+	<fstream>
+
