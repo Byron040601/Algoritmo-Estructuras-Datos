@@ -1,0 +1,3 @@
+﻿  AED ordenamiento insercion.cpp
+C:\Users\Programacion\source\repos\AED ordenamiento insercion\AED ordenamiento insercion.cpp(32,17): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  AED ordenamiento insercion.vcxproj -> C:\Users\Programacion\source\repos\AED ordenamiento insercion\Debug\AED ordenamiento insercion.exe
