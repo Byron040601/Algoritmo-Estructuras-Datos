@@ -1,0 +1,5 @@
+﻿  AED Deber 14.cpp
+C:\Users\Sebas\source\repos\AED Deberes\AED Deber 14\AED Deber 14.cpp(59,28): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Sebas\source\repos\AED Deberes\AED Deber 14\AED Deber 14.cpp(77,37): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Sebas\source\repos\AED Deberes\AED Deber 14\AED Deber 14.cpp(84,27): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  AED Deber 14.vcxproj -> C:\Users\Sebas\source\repos\AED Deberes\AED Deber 14\Debug\AED Deber 14.exe
